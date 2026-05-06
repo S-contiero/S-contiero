@@ -5,7 +5,7 @@
 ---
 
 ## 📕Disciplinas cursadas:
--Lógica de Programação e Algoritimos;
+- Lógica de Programação e Algoritimos;
 - Arquitetura de Redes com IoT;
 - Sistema Operacionais;
 - Levantamento de Requisitos
