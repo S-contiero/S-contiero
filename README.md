@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, meu nome é Stefany Contiero
 
-<!--
-**S-contiero/S-contiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-👩‍💻 Atualmente sou estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📕Disciplinas cursadas:
+-Lógica de Programação e Algoritimos;
+- Arquitetura de Redes com IoT;
+- Sistema Operacionais;
+- Levantamento de Requisitos
+
+  ---
+
+## ⌨️Linguagens Estudadas:
+  - Python;
+  - C++
+
+    ---
+
+  ## 💫Meu sonho é:
+  - Fazer Biomedicina;
+  - Ser bem sucedida;
+  - Conhecer varios países 
